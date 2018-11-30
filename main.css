@@ -21,7 +21,7 @@ button:hover {
 }
 
 section.purple {
-  background-color:  #a366ff;
+  background-color: #DC143C		;
   color: white;
 }
 
@@ -39,7 +39,7 @@ section.padded {
   padding-bottom: 30rem; }
 
 section.hero {
-  background-color:   #a366ff;
+  background-color:   #DC143C		;
   background-size:     cover;
   background-repeat:   no-repeat;
   background-position: center center;
@@ -230,7 +230,7 @@ section.hero p {
 }
 
 .footer {
-  
+
 }
 
 section.content .container .row, section.content .container-fluid .row {
