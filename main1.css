@@ -21,7 +21,7 @@ button:hover {
 }
 
 section.purple {
-  background-color:  #a366ff;
+  background-color:  #DC143C;
   color: white;
 }
 
@@ -34,6 +34,8 @@ section.red h1 {
   color: black;
   font-weight: 800;
 }
+
+
 
 section.purple h1 {
   color: black;
@@ -49,7 +51,7 @@ section.padded {
   padding-bottom: 30rem; }
 
 section.hero {
-  background-color:   #a366ff;
+  background-color:  #DC143C;
   background-size:     cover;
   background-repeat:   no-repeat;
   background-position: center center;
